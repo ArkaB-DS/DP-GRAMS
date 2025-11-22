@@ -1,4 +1,4 @@
-MS Clustering: ARI=0.7837, NMI=0.7609, Silhouette=0.5222, MSE=0.221724, Runtime=0.0090s
-DP-GRAMS-C: ARI=0.7017, NMI=0.7338, Silhouette=0.4803, MSE=0.992330, Runtime=0.0182s
-KMeans: ARI=0.7302, NMI=0.7582, Silhouette=0.5528, MSE=0.066255, Runtime=0.0272s
-DP-KMeans: ARI=0.4380, NMI=0.5468, Silhouette=0.2116, MSE=5.137875, Runtime=0.0097s
+MS Clustering: ARI=0.7837, NMI=0.7609, Silhouette=0.5222, MSE=0.221724, Runtime=0.0091s
+DP-GRAMS-C: ARI=0.7017, NMI=0.7338, Silhouette=0.4803, MSE=0.992330, Runtime=0.0177s
+KMeans: ARI=0.7302, NMI=0.7582, Silhouette=0.5528, MSE=0.066255, Runtime=0.0236s
+DP-KMeans: ARI=0.4380, NMI=0.5468, Silhouette=0.2116, MSE=5.137875, Runtime=0.0112s
