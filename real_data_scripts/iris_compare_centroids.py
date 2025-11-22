@@ -314,6 +314,7 @@ print("Clustering comparison plot saved to:", save_path_clusters)
 # ---------------------------------------------------------------------
 # Privacy–utility curves: DP-GRAMS-C vs DP-KMeans as ε_modes varies
 # ---------------------------------------------------------------------
+# eps_modes_list = [0.01, 0.05, 0.1, 0.2, 0.5, 1]
 eps_modes_list = [0.1, 0.5, 1, 2, 5, 10]
 
 dpms_metrics = {m: [] for m in ["ARI", "NMI", "Silhouette", "MSE"]}
@@ -339,7 +340,7 @@ for eps in eps_modes_list:
             rng=rng_run,
             k_est=merge_n_clusters,
             bandwidth_multiplier=1.0,
-            clip_multiplier=0.01
+            clip_multiplier=0.1
         )
         t_dpms = time.time() - t0
         dpms_times.append(t_dpms)
