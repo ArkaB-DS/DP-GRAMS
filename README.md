@@ -1,5 +1,5 @@
 # DP-GRAMS  
-Differentially Private Gradient-Ascent Mean-Shift for Mode Estimation
+Differentially Private Gradient-Ascent Mean-Shift for Mode Seeking
 
 ## Contents 
 - Modal clustering & regression under $(\varepsilon,\delta)$-differential privacy  
