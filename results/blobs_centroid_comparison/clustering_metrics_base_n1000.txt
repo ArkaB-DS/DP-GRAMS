@@ -1,0 +1,5 @@
+Silverman bandwidth h_base = 1.73120707
+MS Clustering: ARI=0.6566, NMI=0.7237, MSE=0.199906, Runtime=0.0269s
+DP-GRAMS-C: ARI=0.7588, NMI=0.8055, MSE=0.104236, Runtime=0.0255s
+KMeans: ARI=0.9028, NMI=0.8776, MSE=0.000213, Runtime=0.0404s
+DP-KMeans: ARI=0.6356, NMI=0.7245, MSE=0.765406, Runtime=0.0082s

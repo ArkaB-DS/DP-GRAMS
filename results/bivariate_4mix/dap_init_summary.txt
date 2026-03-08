@@ -1,0 +1,7 @@
+DAP Initialization Summary
+---------------------------
+Num data points: 1200
+k (anchors): 120
+Epsilon init: 0.100000
+Epsilon per draw: 0.000833
+Prob min/max: 0.00166806 / 0.155963

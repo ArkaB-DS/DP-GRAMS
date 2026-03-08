@@ -1,0 +1,7 @@
+Classes: ['BRCA', 'COAD', 'KIRC', 'LUAD', 'PRAD']
+PCA dims for clustering: 50
+Silverman bandwidth h = 18.91964419
+MS Clustering: ARI=0.6443, NMI=0.7389, MSE=2612.074141, Runtime=0.1208s
+DP-GRAMS-C: ARI=0.7109, NMI=0.8230, MSE=1389.853164, Runtime=0.0420s
+KMeans: ARI=0.7970, NMI=0.8578, MSE=191.890286, Runtime=0.0994s
+DP-KMeans: ARI=-0.0013, NMI=0.0061, MSE=40346.327537, Runtime=0.1354s

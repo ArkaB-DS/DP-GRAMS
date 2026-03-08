@@ -1,0 +1,12 @@
+n_samples: 1200
+dimension d: 2
+T (MS iterations): 8
+T (DP iterations chosen): 8
+privacy epsilon: 1.0
+privacy delta: 1e-06
+bandwidth h (Silverman on data): 1.326928
+
+MS MSE mean±std: 0.005278 ± 0.000026
+DP-GRAMS MSE mean±std: 0.057842 ± 0.021159
+MS time mean±std: 0.0324 ± 0.0021
+DP-GRAMS time mean±std: 0.0319 ± 0.0106
